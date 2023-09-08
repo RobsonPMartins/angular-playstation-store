@@ -1,6 +1,3 @@
-Claro, aqui está o código para o arquivo `readme.md` com as informações fornecidas:
-
-```markdown
 # Desafio: Recriando a Interface da PlayStation Store com Angular
 
 Este projeto foi desenvolvido como parte do Bootcamp Fullstack para recriar a interface da PlayStation Store utilizando a estrutura Angular. O objetivo principal é aprimorar as habilidades de desenvolvimento front-end usando uma tecnologia popular e criar uma réplica da interface de uma loja virtual.
